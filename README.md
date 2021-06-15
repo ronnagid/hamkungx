@@ -1,5 +1,7 @@
 ### Hi there 👋dd
-
+Contect
+[Facebook]()
+[Twitter](https://twitter.com/Ham_Ronnagid)<br>
 <!--
 **hamkungx/hamkungx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
