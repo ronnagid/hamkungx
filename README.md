@@ -3,9 +3,7 @@
 ⚡ I’m studying at Bansomdejchaopraya Rajabhat Universityl. I'm in computer science program.<br>
 
 ✨Follow me<br>
-[Facebook](https://www.facebook.com/ronnagid.kongsuk/)
 [Twitter](https://twitter.com/Ham_Ronnagid)
-[Instagram](https://www.instagram.com/ham_ronnagid/)
 [Steam](https://steamcommunity.com/id/hamkungx974/)
 
 
