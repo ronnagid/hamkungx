@@ -3,6 +3,7 @@
 ⚡ I’m studying at Bansomdejchaopraya Rajabhat Universityl. I'm in computer science program.<br>
 
 ✨Follow me<br>
+[Facebook](https://www.facebook.com/Shavrosz)
 [Twitter](https://twitter.com/Ham_Ronnagid)
 [Steam](https://steamcommunity.com/id/hamkungx974/)
 
