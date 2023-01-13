@@ -2,11 +2,6 @@
 ⚡ My name is Ronnaigd Kongsuk. <br>
 ⚡ I’m studying at Bansomdejchaopraya Rajabhat Universityl. I'm in computer science program.<br>
 
-✨Follow me<br>
-[Facebook](https://www.facebook.com/Shavrosz)
-[Twitter](https://twitter.com/Ham_Ronnagid)
-[Steam](https://steamcommunity.com/id/hamkungx974/)
-
 
 <!--
 **hamkungx/hamkungx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
